@@ -1,7 +1,7 @@
 # Hackathon-03-Document  
 # Furniture E-commerce Website  
 **Author:** Muskan Muhammad Ashraf  
-**Role:** Rising Star, Chair Haven Online  
+**Role:** Rising Star, Hekto Online  
 
 ---
 
